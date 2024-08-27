@@ -4,7 +4,7 @@ function Titulo() {
     return (
       
       <div>
-        <h1>IFSP</h1>
+        <h1>Aula de Hooks</h1>
       </div>
     );
   

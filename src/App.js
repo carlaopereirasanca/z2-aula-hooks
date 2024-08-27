@@ -1,7 +1,7 @@
 
 import './App.css';
+import ExemploUseRef from './componentes/ExemploUseRef';
 import Titulo from './componentes/Titulo';
-import Titulo2 from './componentes/Titulo2';
 
 function App() {
 
@@ -10,7 +10,10 @@ function App() {
     <div className="App">
 
       <Titulo />
-      <Titulo2 />
+      {/*<ExemploUseState />*/}
+      {/*<ExemploUseEffect />*/}
+      {/*<ExUseEffPai />*/}
+      <ExemploUseRef />
 
     </div>
   );
