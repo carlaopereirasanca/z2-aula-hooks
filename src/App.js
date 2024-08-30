@@ -1,6 +1,6 @@
 
 import './App.css';
-import ExemploUseRef from './componentes/ExemploUseRef';
+import ExemploUseCallback2 from './componentes/ExemploUseCallback2';
 import Titulo from './componentes/Titulo';
 
 function App() {
@@ -13,11 +13,12 @@ function App() {
       {/*<ExemploUseState />*/}
       {/*<ExemploUseEffect />*/}
       {/*<ExUseEffPai />*/}
-      <ExemploUseRef />
+      {/*<ExemploUseRef />*/}
+      {/*<ExemploUseMemo2 />*/}
+      <ExemploUseCallback2 />
 
     </div>
   );
-
 }
 
 export default App;

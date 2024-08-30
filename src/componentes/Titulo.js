@@ -8,6 +8,6 @@ function Titulo() {
       </div>
     );
   
-  }
+}
   
-  export default Titulo;
+export default Titulo;
